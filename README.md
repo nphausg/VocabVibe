@@ -1,17 +1,33 @@
-# 📗 Daily English Words for Vietnamese
 
-Dự án này nhằm mục đích hỗ trợ người Việt Nam học từ vựng tiếng Anh một cách có hệ thống. Mỗi ngày, bạn sẽ tìm thấy một danh sách từ vựng mới, được trình bày dưới dạng bảng với đầy đủ thông tin: từ tiếng Anh, nghĩa tiếng Việt, ví dụ sử dụng và các ghi chú bổ sung. 
+<h1 align="center"> 📗 VocabVibe - Daily English Words for Learners 🚀
+</h1>
+<p align="center">
+<a href="https://revolut.me/nphausg" target="_blank"><img src="docs/thumbnail.jpeg" alt="nphausg" style="width: 386px !important;" ></a>
+</p>
+<p align="center">
+<div align="center">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+    <img src="https://img.shields.io/badge/License-Apache%202.0-success.svg">
+    <img src="https://circleci.com/gh/twilio-labs/plugin-rtc.svg?style=svg">
+    <a href="https://github.com/nphausg/VocabVibe/actions/workflows/deploy.yml">
+        <img alt="Build Status" src="https://github.com/nphausg/VocabVibe/actions/workflows/deploy.yml/badge.svg">
+    </a>
+</div>
+<br>
+<span>Welcome to <b>VocabVibe - Daily English Words for Learners</b>,This project aims to support Vietnamese individuals in systematically learning English vocabulary. Every day, a new list of words is provided in a table format, including the English word, Vietnamese translation, example usage, and additional notes.  🎨📱
+</span>
+<br>
+</p>
 
-### Các yếu tố quan trọng trong mô tả:
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-- ✅ **Đối tượng mục tiêu**: Nhấn mạnh rằng repository này dành cho người Việt Nam.
+### 🚀 Hightlights:
 
-- ✅ **Nội dung**: Mô tả rõ ràng về các thành phần của mỗi từ vựng (nghĩa, ví dụ, ghi chú).
-
-- ✅  **Tính hữu ích**: Giải thích lợi ích của việc sử dụng repository này.
-
-- ✅  **Định dạng**: Đề cập đến định dạng Markdown và bảng để người dùng biết cách sử dụng.
-Tính cập nhật: Nhấn mạnh rằng từ vựng được cập nhật hàng ngày.
+- **✅ Target Audience** : Emphasize that this repository is designed for Vietnamese learners.
+- **✅ Content**: Clearly describe the components of each vocabulary entry (meaning, examples, notes).
+- **✅ Usefulness**: Explain the benefits of using this repository.
+- **✅ Format**: Mention the Markdown and table formats so users know how to use them.
+- **✅ Updates**: Emphasize that vocabulary is updated daily.
 
 
 ## 🗓️ [2025-03-16]
@@ -34,8 +50,9 @@ Tính cập nhật: Nhấn mạnh rằng từ vựng được cập nhật hàng
 
   | Words       | Meaning       | Example                                     | Notes                                     |
   | ----------- | ------------- | ------------------------------------------- | ----------------------------------------- |
-  | Die-hard  (idiom)    | Kiên trung, bảo thủ, khó thay đổi, ...        | "He's a die-hard fan of Manchester United."               | (Anh ấy là một fan cuồng nhiệt của Manchester United.) - Câu này thể hiện sự trung thành và đam mê mãnh liệt của một người hâm mộ bóng đá.   |
-  
+  | <a href="https://dictionary.cambridge.org/dictionary/english/die-hard">Die-hard  (idiom)</a> | Kiên trung, bảo thủ, khó thay đổi, ...        | "He's a die-hard fan of Manchester United."               | (Anh ấy là một fan cuồng nhiệt của Manchester United.) - Câu này thể hiện sự trung thành và đam mê mãnh liệt của một người hâm mộ bóng đá.   |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/die-off">Die-off  (phrasal verb)</a> | Chết dần, chết mòn cho đến khi không còn tồn tại nữa |   Many small businesses died off during the economic crisis.  | Nhiều doanh nghiệp nhỏ đã chết dần trong suốt cuộc khủng hoảng kinh tế. |
+
 </details>
 
 ## 🗓️ [2025-03-12]
@@ -47,6 +64,6 @@ Tính cập nhật: Nhấn mạnh rằng từ vựng được cập nhật hàng
   | ------------- | ------------- | ------------------------------------- | ---------------------------------------------- |
   | Challenge     | Thử thách      | Learning a new language is a challenge. | Điều gì đó đòi hỏi nỗ lực và kỹ năng.           |
   | Achieve       | Đạt được       | He achieved his goals.                 | Thành công trong việc đạt được điều gì đó.     |
-  | Perseverance | Sự kiên trì | Perseverance is key to success.     | Sự kiên định và quyết tâm tiếp tục cố gắng. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/perseverance">Perseverance</a>| Sự kiên trì | Perseverance is key to success. (Sự kiên định và quyết tâm tiếp tục cố gắng.)     | C2 |
 
 </details>
