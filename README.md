@@ -30,40 +30,29 @@
 - **✅ Updates**: Emphasize that vocabulary is updated daily.
 
 
-## 🗓️ [2025-03-16]
+## 🗓️ [Today]
 
 <details>
   <summary>Expand/Collapse</summary>
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
-  | Diligent    | Siêng năng     | She is a diligent student.            | Thể hiện sự chăm chỉ và kiên trì.        |
-  | Essential   | Thiết yếu      | Water is essential for life.           | Cần thiết hoặc quan trọng đến mức không thể thiếu. |
-  | Opportunity | Cơ hội        | This is a great opportunity to learn. | Thời điểm hoặc hoàn cảnh thuận lợi.      |
-
-</details>
-
-## 🗓️ [2025-03-15]
-
-<details>
-  <summary>Expand/Collapse</summary>
-
-  | Words       | Meaning       | Example                                     | Notes                                     |
-  | ----------- | ------------- | ------------------------------------------- | ----------------------------------------- |
-  | <a href="https://dictionary.cambridge.org/dictionary/english/die-hard">Die-hard  (idiom)</a> | Kiên trung, bảo thủ, khó thay đổi, ...        | "He's a die-hard fan of Manchester United."               | (Anh ấy là một fan cuồng nhiệt của Manchester United.) - Câu này thể hiện sự trung thành và đam mê mãnh liệt của một người hâm mộ bóng đá.   |
-  | <a href="https://dictionary.cambridge.org/dictionary/english/die-off">Die-off  (phrasal verb)</a> | Chết dần, chết mòn cho đến khi không còn tồn tại nữa |   Many small businesses died off during the economic crisis.  | Nhiều doanh nghiệp nhỏ đã chết dần trong suốt cuộc khủng hoảng kinh tế. |
-
-</details>
-
-## 🗓️ [2025-03-12]
-
-<details>
-  <summary>Expand/Collapse</summary>
-
-  | Words         | Meaning       | Example                               | Notes                                          |
-  | ------------- | ------------- | ------------------------------------- | ---------------------------------------------- |
-  | Challenge     | Thử thách      | Learning a new language is a challenge. | Điều gì đó đòi hỏi nỗ lực và kỹ năng.           |
-  | Achieve       | Đạt được       | He achieved his goals.                 | Thành công trong việc đạt được điều gì đó.     |
-  | <a href="https://dictionary.cambridge.org/dictionary/english/perseverance">Perseverance</a>| Sự kiên trì | Perseverance is key to success. (Sự kiên định và quyết tâm tiếp tục cố gắng.)     | C2 |
+  | diligent    | Siêng năng     | She is a diligent student.            | Thể hiện sự chăm chỉ và kiên trì.        |
+  | essential   | Thiết yếu      | Water is essential for life.           | Cần thiết hoặc quan trọng đến mức không thể thiếu. |
+  | opportunity | Cơ hội        | This is a great opportunity to learn. | Thời điểm hoặc hoàn cảnh thuận lợi.      |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/die-hard">die-hard  (idiom)</a> | Kiên trung, bảo thủ, khó thay đổi, ...        | "He's a die-hard fan of Manchester United."               | (Anh ấy là một fan cuồng nhiệt của Manchester United.) - Câu này thể hiện sự trung thành và đam mê mãnh liệt của một người hâm mộ bóng đá.   |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/die-off">die-off  (phrasal verb)</a> | Chết dần, chết mòn cho đến khi không còn tồn tại nữa |   Many small businesses died off during the economic crisis.  | Nhiều doanh nghiệp nhỏ đã chết dần trong suốt cuộc khủng hoảng kinh tế. |
+  | challenge     | Thử thách      | Learning a new language is a challenge. | Điều gì đó đòi hỏi nỗ lực và kỹ năng.           |
+  | achieve       | Đạt được       | He achieved his goals.                 | Thành công trong việc đạt được điều gì đó.     |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/rationable">rationale</a>| Lý lẽ | He don't understand the rationale for these restrictions.     | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/competency">competency</a>| Năng lực | Her competence as a teacher is unquestionable.     | C1 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/nitpicking">nitpicking</a>| Soi mói | If you spent less time nitpicking, you'd get more work done. | _ |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/integrity">integrity</a>| Chính trực | No one doubted that the president was a man of the highest integrity.     | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/perseverance">perseverance</a>| Sự kiên trì | Perseverance is key to success. (Sự kiên định và quyết tâm tiếp tục cố gắng.)     | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/perception">perception </a>| Sự nhận thức | These photographs will affect people's perceptions of war  | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/deceiver">deceiver </a>| Kẻ lừa dối | It could be difficult to detect a lie, especially from a well-practised deceiver.  | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/self-sufficiency">self-sufficiency</a>| Tự cung tự cấp | the quality or state of being able to provide everything you need, especially food, without the help of other people or countries  | After decades of self-sufficiency, domestic oil production could no longer satisfy demand. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/apprehension">apprehension</a>|  Sự e ngại | worry about the future, or a fear that something unpleasant is going to happen | It's normal to feel a little apprehension before starting a new job. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/assertiveness">assertiveness</a>|  Sự quyết đoán | the quality of being confident and not frightened to say what you want or believe | He spoke with confidence and assertiveness. |
 
 </details>
