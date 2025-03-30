@@ -49,10 +49,19 @@
   | <a href="https://dictionary.cambridge.org/dictionary/english/nitpicking">nitpicking</a>| Soi mói | If you spent less time nitpicking, you'd get more work done. | _ |
   | <a href="https://dictionary.cambridge.org/dictionary/english/integrity">integrity</a>| Chính trực | No one doubted that the president was a man of the highest integrity.     | C2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/perseverance">perseverance</a>| Sự kiên trì | Perseverance is key to success. (Sự kiên định và quyết tâm tiếp tục cố gắng.)     | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/advocate">advocate (C2)</a>| Người bào chữa | to publicly support or suggest an idea, development, or way of doing something     | We will continue to advocate for a regional, cooperative approach to the construction project |
   | <a href="https://dictionary.cambridge.org/dictionary/english/perception">perception </a>| Sự nhận thức | These photographs will affect people's perceptions of war  | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/intolerable">intolerable </a>| không thể chịu đựng được | too bad or unpleasant to deal with or accept (The situation has become intolerable)  | C2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/deceiver">deceiver </a>| Kẻ lừa dối | It could be difficult to detect a lie, especially from a well-practised deceiver.  | C2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/self-sufficiency">self-sufficiency</a>| Tự cung tự cấp | the quality or state of being able to provide everything you need, especially food, without the help of other people or countries  | After decades of self-sufficiency, domestic oil production could no longer satisfy demand. |
   | <a href="https://dictionary.cambridge.org/dictionary/english/apprehension">apprehension</a>|  Sự e ngại | worry about the future, or a fear that something unpleasant is going to happen | It's normal to feel a little apprehension before starting a new job. |
   | <a href="https://dictionary.cambridge.org/dictionary/english/assertiveness">assertiveness</a>|  Sự quyết đoán | the quality of being confident and not frightened to say what you want or believe | He spoke with confidence and assertiveness. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/mayor">mayor</a>| Thị trưởng | a person who is elected or chosen to lead the group who governs a town or city | We need a mayor who is tough enough to clean up this town. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/excruciating">excruciating</a>| đau đớn | extremely painful | His injury caused excruciating headaches. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/vigorously">vigorously</a>| Mạnh mẽ | He vigorously denied the accusations. | in a way that is very forceful or energetic |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/shingles">shingles</a>| Bệnh Zona |This vaccine reduces the risk of developing shingles by 55 percent | a disease caused by the varicella zoster virus, which infects particular nerves and produces a line or lines of painful reddish spots on the body |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/psychiatric">psychiatric</a>| tâm thần | He has been transferred to a psychiatric hospital | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/physiopathology">physiopathology</a>| sinh lý học | He is a professor of the physiopathology of reproduction at the University | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/chiropractic">chiropractic</a>| nắn xương khớp | My neurologist prescribed chiropractic to control pain as part of my treatment. | - |
 
 </details>
