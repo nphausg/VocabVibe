@@ -37,14 +37,17 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
-  | diligent    | Siêng năng     | She is a diligent student.            | Thể hiện sự chăm chỉ và kiên trì.        |
-  | essential   | Thiết yếu      | Water is essential for life.           | Cần thiết hoặc quan trọng đến mức không thể thiếu. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/spiritual">spiritual</a> | Tinh thần | elating to deep feelings and beliefs, especially religious beliefs | Traditional ways of life fulfilled both economic and spiritual needs. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/diligent">diligent</a> | Siêng năng | Leo is very diligent about his work | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/essential">essential</a> | Thiết yếu | Government support will be essential if the project is to succeed | B1 |
   | opportunity | Cơ hội        | This is a great opportunity to learn. | Thời điểm hoặc hoàn cảnh thuận lợi.      |
   | <a href="https://dictionary.cambridge.org/dictionary/english/die-hard">die-hard  (idiom)</a> | Kiên trung, bảo thủ, khó thay đổi, ...        | "He's a die-hard fan of Manchester United."               | (Anh ấy là một fan cuồng nhiệt của Manchester United.) - Câu này thể hiện sự trung thành và đam mê mãnh liệt của một người hâm mộ bóng đá.   |
   | <a href="https://dictionary.cambridge.org/dictionary/english/die-off">die-off  (phrasal verb)</a> | Chết dần, chết mòn cho đến khi không còn tồn tại nữa |   Many small businesses died off during the economic crisis.  | Nhiều doanh nghiệp nhỏ đã chết dần trong suốt cuộc khủng hoảng kinh tế. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/cornerstone">cornerston</a> | something of great importance on which everything else depends  | Funds for the school system were the cornerstone of his budget proposal. |
   | challenge     | Thử thách      | Learning a new language is a challenge. | Điều gì đó đòi hỏi nỗ lực và kỹ năng.           |
   | achieve       | Đạt được       | He achieved his goals.                 | Thành công trong việc đạt được điều gì đó.     |
   | <a href="https://dictionary.cambridge.org/dictionary/english/rationable">rationale</a>| Lý lẽ | He don't understand the rationale for these restrictions.     | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/thrift">rhrift</a>| Tiết kiệm | the careful use of money, especially by avoiding waste     | Trina learned thrift from her mother |
   | <a href="https://dictionary.cambridge.org/dictionary/english/competency">competency</a>| Năng lực | Her competence as a teacher is unquestionable.     | C1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/nitpicking">nitpicking</a>| Soi mói | If you spent less time nitpicking, you'd get more work done. | _ |
   | <a href="https://dictionary.cambridge.org/dictionary/english/integrity">integrity</a>| Chính trực | No one doubted that the president was a man of the highest integrity.     | C2 |
@@ -58,6 +61,7 @@
   | <a href="https://dictionary.cambridge.org/dictionary/english/assertiveness">assertiveness</a>|  Sự quyết đoán | the quality of being confident and not frightened to say what you want or believe | He spoke with confidence and assertiveness. |
   | <a href="https://dictionary.cambridge.org/dictionary/english/mayor">mayor</a>| Thị trưởng | a person who is elected or chosen to lead the group who governs a town or city | We need a mayor who is tough enough to clean up this town. |
   | <a href="https://dictionary.cambridge.org/dictionary/english/excruciating">excruciating</a>| đau đớn | extremely painful | His injury caused excruciating headaches. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/orchestration">orchestration</a>| Sự phối hợp | an arrangement of a piece of music to be played by an orchestra | The song features classical piano and lush orchestration. |
   | <a href="https://dictionary.cambridge.org/dictionary/english/vigorously">vigorously</a>| Mạnh mẽ | He vigorously denied the accusations. | in a way that is very forceful or energetic |
   | <a href="https://dictionary.cambridge.org/dictionary/english/shingles">shingles</a>| Bệnh Zona |This vaccine reduces the risk of developing shingles by 55 percent | a disease caused by the varicella zoster virus, which infects particular nerves and produces a line or lines of painful reddish spots on the body |
   | <a href="https://dictionary.cambridge.org/dictionary/english/psychiatric">psychiatric</a>| tâm thần | He has been transferred to a psychiatric hospital | - |
