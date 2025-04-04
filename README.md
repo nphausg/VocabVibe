@@ -37,7 +37,12 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/eliminate">eliminate</a> | loại bỏ (to remove or take away someone or something)| A move towards healthy eating could help eliminate heart disease. | C1 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/tariff">tariff</a> | thuế quan (a charge or list of charges either for services or on goods entering a country)| An agreement was reached to eliminate tariffs on information technology products | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/spiritual">spiritual</a> | Tinh thần | elating to deep feelings and beliefs, especially religious beliefs | Traditional ways of life fulfilled both economic and spiritual needs. |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/manner">manner</a> | thái độ  (the way in which something is done )| She stared at me in an accusing manner. | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/rigorously">rigorously</a> | một cách nghiêm ngặc | Manufacturers rigorously test new products to avoid skin reactions in those who use them. | in a careful way so that every part of something is looked at or considered to make certain it is correct or safe |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/secular">secular</a> | Thế tục | not having any connection with religion | We live in an increasingly secular society, in which religion has less and less influence on our daily lives. |
   | <a href="https://dictionary.cambridge.org/dictionary/english/diligent">diligent</a> | Siêng năng | Leo is very diligent about his work | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/essential">essential</a> | Thiết yếu | Government support will be essential if the project is to succeed | B1 |
   | opportunity | Cơ hội        | This is a great opportunity to learn. | Thời điểm hoặc hoàn cảnh thuận lợi.      |
