@@ -38,6 +38,11 @@
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
   | <a href="https://dictionary.cambridge.org/dictionary/english/eliminate">eliminate</a> | loại bỏ (to remove or take away someone or something)| A move towards healthy eating could help eliminate heart disease. | C1 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/entrench">entrench</a> | cố thủ (to firmly establish something, especially an idea or a problem, so that it cannot be changed)| The government's main task was to prevent inflation from entrenching itself | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/ingrained">ingrained</a> | ăn sâu (so firmly held that they are not likely to change)| The belief that you should own your house is deeply ingrained in our society | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/worth">worth</a> |  đáng giá | She sold fifty dollars’ worth of tickets | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/precise">precise</a> | chính xác (exact and accurate) | He caught me at the precise moment that I fainted | B2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/worthless">worthless</a> | vô giá trị | He said the jewels were worthless fakes| C2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/tariff">tariff</a> | thuế quan (a charge or list of charges either for services or on goods entering a country)| An agreement was reached to eliminate tariffs on information technology products | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/spiritual">spiritual</a> | Tinh thần | elating to deep feelings and beliefs, especially religious beliefs | Traditional ways of life fulfilled both economic and spiritual needs. |
   | <a href="https://dictionary.cambridge.org/dictionary/english/manner">manner</a> | thái độ  (the way in which something is done )| She stared at me in an accusing manner. | - |
