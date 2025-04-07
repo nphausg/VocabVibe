@@ -37,6 +37,8 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/faint">faint</a> | ngất xỉu (to feel weak, as if you are about to become unconscious) | She felt faint with hunger | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/mumble">mumble</a> | lẩm bẩm (to speak quietly and in a way that is not clear so that the words are difficult to understand) | She mumbled something about being too busy. | B1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/eliminate">eliminate</a> | loại bỏ (to remove or take away someone or something)| A move towards healthy eating could help eliminate heart disease. | C1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/entrench">entrench</a> | cố thủ (to firmly establish something, especially an idea or a problem, so that it cannot be changed)| The government's main task was to prevent inflation from entrenching itself | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/ingrained">ingrained</a> | ăn sâu (so firmly held that they are not likely to change)| The belief that you should own your house is deeply ingrained in our society | - |
