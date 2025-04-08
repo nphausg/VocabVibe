@@ -37,7 +37,11 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/granular">granular</a> | including small details | We need a broad picture, not the granular details of people's buying habits | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/synthetic">synthetic</a> | tổng hợp (Synthetic products are made from artificial substances, often copying a natural product) | The patch prevents pregnancy using the same synthetic hormones that are used in birth control pills | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/consecutively">consecutively</a> | liên tiếp (one after another without an interruption) | He got 18 months for each offence to run consecutively - three years in all | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/faint">faint</a> | ngất xỉu (to feel weak, as if you are about to become unconscious) | She felt faint with hunger | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/compelling">compelling</a> | hấp dẫn (If a reason, argument, etc. is compelling, it makes you believe it or accept it because it is so strong) | It's a fairly compelling argument for going | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/mumble">mumble</a> | lẩm bẩm (to speak quietly and in a way that is not clear so that the words are difficult to understand) | She mumbled something about being too busy. | B1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/eliminate">eliminate</a> | loại bỏ (to remove or take away someone or something)| A move towards healthy eating could help eliminate heart disease. | C1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/entrench">entrench</a> | cố thủ (to firmly establish something, especially an idea or a problem, so that it cannot be changed)| The government's main task was to prevent inflation from entrenching itself | - |
