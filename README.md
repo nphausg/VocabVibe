@@ -37,7 +37,9 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
-  | <a href="https://dictionary.cambridge.org/dictionary/english/granular">granular</a> | including small details | We need a broad picture, not the granular details of people's buying habits | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/granular">granular</a> | including small details (chi tiết, tỉ mỉ, từng phần nhỏ) | We need a broad picture, not the granular details of people's buying habits | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/propaganda">propaganda</a> | information, ideas, opinions, or images, often only giving one part of an argument, that are broadcast, published, or in some other way spread with the intention of influencing people's opinions (tuyên truyền) | One official dismissed the ceasefire as a mere propaganda exercise | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/paramount">paramount</a> | paramount (tối quan trọng) | There are many priorities, but reducing the budget deficit is paramount/is of paramount importance | C2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/synthetic">synthetic</a> | tổng hợp (Synthetic products are made from artificial substances, often copying a natural product) | The patch prevents pregnancy using the same synthetic hormones that are used in birth control pills | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/consecutively">consecutively</a> | liên tiếp (one after another without an interruption) | He got 18 months for each offence to run consecutively - three years in all | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/faint">faint</a> | ngất xỉu (to feel weak, as if you are about to become unconscious) | She felt faint with hunger | C2 |
