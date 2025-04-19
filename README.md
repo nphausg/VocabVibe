@@ -38,6 +38,7 @@
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
   | <a href="https://dictionary.cambridge.org/dictionary/english/granular">granular</a> | including small details (chi tiết, tỉ mỉ, từng phần nhỏ) | We need a broad picture, not the granular details of people's buying habits | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/unbearable">unbearable</a> | không thể chịu đựng (too painful or unpleasant for you to continue to experience) | The heat was unbearable. | B2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/agnostic">agnostic</a> | (không biết) someone who does not know, or believes that it is impossible to know, if a god exists | Although he was raised a Catholic, he was an agnostic for most of his adult life | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/fascinating">fascinating</a> | lôi cuốn (extremely interesting) | The book offers a fascinating glimpse of the lives of the rich and famous | B2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/propaganda">propaganda</a> | information, ideas, opinions, or images, often only giving one part of an argument, that are broadcast, published, or in some other way spread with the intention of influencing people's opinions (tuyên truyền) | One official dismissed the ceasefire as a mere propaganda exercise | C2 |
