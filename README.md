@@ -37,6 +37,14 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/counterparts">counterparts</a> | đối táct (a person or thing that has the same purpose as another one in a different place or organization) | The prime minister is to meet his European counterparts to discuss the war against drugs | C1 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/knowledgeable">knowledgeable</a> | hiểu biết (knowing a lot) | He's very knowledgeable about German literature | C1 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/mild">mild</a> | nhẹ (not violent, severe, or extreme) | She can't accept even mild criticism of her work | C1 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/debris">debris</a> | mảnh vỡ (broken or torn pieces of something larger ) | Debris from the aircraft was scattered over a large area | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/patio">patio</a> | sân (an area outside a house with a solid floor but no roof, used in good weather for relaxing, eating, etc, ...) | In the summer we have breakfast out on the patio | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/vigorously">vigorously</a> | mạnh mẽ (in a way that is very forceful or energetic) | Environmentalists and local government officials have vigorously opposed the project | - |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/intolerable">intolerable</a> | không thể chịu đựng được (too bad or unpleasant to deal with or accept) | The situation has become intolerable | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/painful">painful</a> | đâu đớn (causing emotional or physical pain) | The old photograph brought back painful memories | B2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/granular">granular</a> | including small details (chi tiết, tỉ mỉ, từng phần nhỏ) | We need a broad picture, not the granular details of people's buying habits | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/unbearable">unbearable</a> | không thể chịu đựng (too painful or unpleasant for you to continue to experience) | The heat was unbearable. | B2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/agnostic">agnostic</a> | (không biết) someone who does not know, or believes that it is impossible to know, if a god exists | Although he was raised a Catholic, he was an agnostic for most of his adult life | - |
