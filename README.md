@@ -37,6 +37,9 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/imitate">imitate</a> | bắt chước (to behave in a similar way to someone or something else, or to copy the speech or behaviour, etc. of someone or something) | Some of the younger pop bands try to imitate their musical heroes from the past. | C2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/representative">representative</a> | tiêu biểu (someone who speaks or does something officially for another person or group of people) | The firm has representatives in every major city | B2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/particularly">particularly</a> | cụ thể (especially, or more than usual) | I didn't particularly want to go, but I had to | B1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/counterparts">counterparts</a> | đối táct (a person or thing that has the same purpose as another one in a different place or organization) | The prime minister is to meet his European counterparts to discuss the war against drugs | C1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/knowledgeable">knowledgeable</a> | hiểu biết (knowing a lot) | He's very knowledgeable about German literature | C1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/mild">mild</a> | nhẹ (not violent, severe, or extreme) | She can't accept even mild criticism of her work | C1 |
