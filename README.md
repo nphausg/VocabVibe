@@ -37,6 +37,10 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/rural">rural</a> | nông thôn (in, of, or like the countryside) | The area is still very rural and undeveloped | B2 |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/rumour">rumour</a> | tin đồn (an unofficial interesting story or piece of news that might be true or invented, and quickly spreads from person to person) | I heard a rumour that she'd been seeing Luke Harrison. | noun [C or U] |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/mower">mower</a> | máy cắt cỏ (a machine for cutting grass) | Last year a robot mower was marketed for use in domestic gardens. | noun [C] |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/candid">candid</a> | thẳng thắn (honest and telling the truth, especially about something difficult or painful) | To be candid with you, I think you're making a dreadful mistake. | - |
   | <a href="https://dictionary.cambridge.org/dictionary/english/imitate">imitate</a> | bắt chước (to behave in a similar way to someone or something else, or to copy the speech or behaviour, etc. of someone or something) | Some of the younger pop bands try to imitate their musical heroes from the past. | C2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/representative">representative</a> | tiêu biểu (someone who speaks or does something officially for another person or group of people) | The firm has representatives in every major city | B2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/particularly">particularly</a> | cụ thể (especially, or more than usual) | I didn't particularly want to go, but I had to | B1 |
