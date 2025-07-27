@@ -37,6 +37,7 @@
 
   | Words       | Meaning       | Example                                 | Notes                                     |
   | ----------- | ------------- | --------------------------------------- | ----------------------------------------- |
+  | <a href="https://dictionary.cambridge.org/dictionary/english/fuss">fuss</a> | ồn ào (a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves) | make a fuss  | C1 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/rural">rural</a> | nông thôn (in, of, or like the countryside) | The area is still very rural and undeveloped | B2 |
   | <a href="https://dictionary.cambridge.org/dictionary/english/rumour">rumour</a> | tin đồn (an unofficial interesting story or piece of news that might be true or invented, and quickly spreads from person to person) | I heard a rumour that she'd been seeing Luke Harrison. | noun [C or U] |
   | <a href="https://dictionary.cambridge.org/dictionary/english/mower">mower</a> | máy cắt cỏ (a machine for cutting grass) | Last year a robot mower was marketed for use in domestic gardens. | noun [C] |
